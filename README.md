@@ -2,6 +2,8 @@
 
 Small Python project with `app.py`, `db_manager.py`, and `email_handler.py`.
 
+There are 2 versions of this officer assistant V1 is built with Colab which is the file with officerassist1.pynb which only transcribes audio to text and V2 transcribes video, image and audio.
+
 How to use
 
 1. Create a virtual environment: `python -m venv .venv`
